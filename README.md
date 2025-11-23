@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**majorpart/majorpart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Website
+👉 [kirkify.info](https://kirkify.info)
 
-Here are some ideas to get you started:
+👉 [nanobananapro.live](https://nanobananapro.live)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 [Kirkify - Charlie Kirk Face Swap AI](https://kirkify.aithink.app)
+
+👉 [Proscribed Game](https://proscribed-game.aithink.app)
+
+👉 [PoE 3.27 Guide](https://poe327.aithink.app)
+
+👉 [Wedding Vows Generator](https://ai-wedding-vows-examples.momo-test.com)
+
+👉 [Rap Lyrics Generator](https://ai-rap-lyrics-generator.momo-test.com)
+
+👉 [AI Think](https://aithink.app)
+
+👉 [Image to Prompt](https://imagetoprompt.app)
+
+👉 [MOMO TEST](https://momo-test.com)
+
+
+
+
+
+
