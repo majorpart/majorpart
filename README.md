@@ -23,6 +23,8 @@
 
 👉 [We Are Charlie Kirk](https://wearecharliekirk.click)
 
+👉 [ai best](https://aibest.live/)
+
 
 
 
