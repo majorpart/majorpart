@@ -25,6 +25,7 @@
 
 👉 [ai best](https://aibest.live/)
 
+👉 [MEANINGS](https://meanings.live)
 
 
 
