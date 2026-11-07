@@ -3,6 +3,8 @@
 ### 🌐 Website
 👉 [Yevideo - AI Video and Image Platform](https://yevideo.io))
 
+👉 [Video Translate](https://videotranslators.com/)
+
 👉 [kirkify.info](https://kirkify.info)
 
 👉 [nanobananapro.live](https://nanobananapro.live)
